@@ -1,0 +1,22 @@
+== README
+
+This is team UNKNOWN's csce606 final project,the mashup of president deabte
+
+
+Before you start running the server, please read the following tips:
+
+1. you have installed postgresq and setup correctly (you can check it use rake db:setup in the project dir)
+
+2. we suggest to use firefox broswer or chrome, but not IE. Sorry about this.
+
+Usage:
+
+In project dir:
+
+1. run $ bundle install 
+
+2. run $ rails server 
+
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
